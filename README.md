@@ -1,2 +1,2 @@
-- [first task](https://ChVladislav.github.io/rsschool-cv/cv) 
-- [second task](https://github.com/ChVladislav/rsschool-cv/blob/gh-pages/Index.html)
+
+- [second task](https://your-github-account.github.io/rsschool-cv/)
