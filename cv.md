@@ -18,4 +18,10 @@ Therefore, I will try hard to learn JS, find my first work ang get much new expe
 6. __Courses, books__:
     - HTML Academy: "Знакомство с веб разработкой" - основы HTML, СSS, JS;
     - 110/287 of a book "JS для детей" by Nick Morgan;
+    - CS 50: Introduction to computer science, progress: 8 parts of 10;
+7. __Education__: I finish Mogilev State University of food industry
+8. __English__: 
+    - Intermediate B1-B2 - by efset quick test;
+    -  A2 (Выше базового) - by Epam training Eng.
+
 
