@@ -1,2 +1,2 @@
 - [first task](https://ChVladislav.github.io/rsschool-cv/cv) 
-- [second task](https://ChVladislav.github.io/rsschool-cv/)
+- [second task](https://ChVladislav.github.io/rsschool-cv/index)
